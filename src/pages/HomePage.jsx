@@ -54,7 +54,7 @@ const Home = () => {
                         </p>
                         <span style={{
                             textShadow: '1px 1px 2px #EB4B18',
-                            fontSize: '20px', fontFamily: 'Fredoka-Bold', color: '#EB4B18'
+                            fontSize: '20px', fontFamily: 'Fredoka', color: '#EB4B18'
                         }}>
                             Tải app tại:
                         </span>
