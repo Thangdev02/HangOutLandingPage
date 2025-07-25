@@ -25,13 +25,28 @@ const HangOutHeader = () => {
                         <Nav.Link href="#about">Về chúng tôi</Nav.Link>
 
                     </Nav>
-                    <Button variant="warning" className="text-white px-4 py-2 rounded-3" style={{
-                        width: '211px', height: '62px', fontFamily: 'Fredoka', fontSize: '32px',
-                        background: "linear-gradient(90deg, #FF9A00, #FF6F20)",
-                        boxShadow: '2px 2px 6px 2px #FF9A00', border: 'none'
-                    }}>
-                        Tải ngay
-                    </Button>
+                    <a
+                        href="https://apps.apple.com/vn/app/hangout/id6747320890?l=vi"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <Button
+                            variant="warning"
+                            className="text-white px-4 py-2 rounded-3"
+                            style={{
+                                width: '211px',
+                                height: '62px',
+                                fontFamily: 'Fredoka',
+                                fontSize: '32px',
+                                background: 'linear-gradient(90deg, #FF9A00, #FF6F20)',
+                                boxShadow: '2px 2px 6px 2px #FF9A00',
+                                border: 'none',
+                            }}
+                        >
+                            Tải ngay
+                        </Button>
+                    </a>
+
                 </Navbar.Collapse>
             </Container>
         </Navbar>

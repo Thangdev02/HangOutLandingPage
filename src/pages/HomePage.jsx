@@ -59,7 +59,7 @@ const Home = () => {
                             Tải app tại:
                         </span>
                         <div className="d-flex gap-3 mt-4">
-                            <a style={{ textDecoration: 'none' }} href="https://play.google.com" target="_blank" rel="noopener noreferrer">
+                            <a style={{ textDecoration: 'none' }} href="https://play.google.com/store/apps/details?id=com.winnertech.hangout_app&pcampaignid=web_share" target="_blank" rel="noopener noreferrer">
                                 <div
                                     style={{
                                         background: "linear-gradient(90deg, #FF6F20, #FF9A00)",
@@ -81,7 +81,7 @@ const Home = () => {
                                 </div>
                             </a>
 
-                            <a style={{ textDecoration: 'none' }} href="https://apps.apple.com" target="_blank" rel="noopener noreferrer">
+                            <a style={{ textDecoration: 'none' }} href="https://apps.apple.com/vn/app/hangout/id6747320890?l=vi" target="_blank" rel="noopener noreferrer">
                                 <div
                                     style={{
                                         background: "linear-gradient(90deg, #FF6F20, #FF9A00)",
