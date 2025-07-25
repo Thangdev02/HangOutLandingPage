@@ -1,0 +1,40 @@
+html {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('../public/assets/fonts/Poppins-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins-Semi';
+  src: url('../public/assets/fonts/Poppins-SemiBold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('../public/assets/fonts/Poppins-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Fredoka';
+  src: url('../public/assets/fonts/Fredoka-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Fredoka-Bold';
+  src: url('../public/assets/fonts/Fredoka-Bold.ttf') format('truetype');
+  font-weight: 400;
+  font-style: bold;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}
+/* Thêm các font-weight khác nếu cần như: 300, 500, 600, 800 */
